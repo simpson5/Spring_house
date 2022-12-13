@@ -1,4 +1,4 @@
-package main.java.com.fastcampus.programming.dmaker.dto;
+package com.fastcampus.programming.dmaker.dto;
 
 import com.fastcampus.programming.dmaker.entity.Developer;
 import com.fastcampus.programming.dmaker.exception.DMakerErrorCode;
